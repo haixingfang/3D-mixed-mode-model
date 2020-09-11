@@ -23,7 +23,7 @@ This package is free to use, ditribute and adapt, but no warranty and liability 
 See the [LICENSE](https://github.com/haixingfang/3D-mixed-mode-model/blob/master/LICENSE) for license rights and limitations (GNU General Public License v3.0).
 
 # Reference
-H. Fang, M.G. Mecozzi, E. Brϋck, S. van der Zwaag, N.H. van Dijk, Analysis of the grain size evolution for ferrite formation in Fe-C-Mn steels using a 3D model under a mixed-mode interface condition, Metall. Mater. Trans. A 49 (2018) 41-53. <br>
-Citing our [article published in MMTA](https://link.springer.com/content/pdf/10.1007/s11661-017-4397-y.pdf) is strongly encouraged if you use or get inspired by our code.
+[H. Fang, M.G. Mecozzi, E. Brϋck, S. van der Zwaag, N.H. van Dijk, Analysis of the grain size evolution for ferrite formation in Fe-C-Mn steels using a 3D model under a mixed-mode interface condition, Metall. Mater. Trans. A 49 (2018) 41-53](https://link.springer.com/content/pdf/10.1007/s11661-017-4397-y.pdf). <br>
+Please cite this article if you use or get inspired by any code presented here.
 
 ## Contact via hfang@tudelft.nl or haixingfang868@gmail.com
