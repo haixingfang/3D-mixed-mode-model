@@ -4,7 +4,7 @@ The codes were developed for implementing a 3D mixed-mode model to predict the a
 # Features of the model
 - Continuous nucleation at the corners of austenitic grains
 - Interface moving in a mixed-mode manner by assuming a negligible partition of manganese in para-equilibrium
-- Using effective interface mobility to account for the influence of substitutional alloying elements
+- The influence of substitutional alloying elements is accounted by an approching using effective interface mobility 
 - Soft impingement and hard impingement are considered
 
 # Denpendencies of the code
