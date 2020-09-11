@@ -14,13 +14,13 @@ The codes were developed for implementing a 3D mixed-mode model to predict the a
 All codes have been tested executable with Matlab 2014b or above.
 
 # How to run the code
-Just run [ferrite_3d_model_voronoin_PBC_ND_CNT_GEB.m](https://github.com/haixingfang/3D-GEB-mixed-mode-model/blob/master/ferrite_3d_model_voronoin_PBC_ND_CNT_GEB.m). <br>
-But, remember to first set up the chemical compositions, heat treatment parameters and include thermodynamic data (which can be parameterized first with [Thermo-Calc software](https://www.thermocalc.com/)) in [SimulCond.m](https://github.com/haixingfang/3D-GEB-mixed-mode-model/blob/master/SimulCond.m). <br>
-<br>
+Just run [ferrite_3d_model_voronoin_PBC_ND_CNT_GEB.m](https://github.com/haixingfang/3D-mixed-mode-model/blob/master/ferrite_3d_model_voronoin_PBC_ND_CNT.m). <br>
+Currently, it is only valid for simulation phase transformations during continuous cooling for Fe-0.1C-0.49Mn (wt%). <br>
+But it can be easily adapted to other alloys under different heat treatment conditions.
 
 # License
 This package is free to use, ditribute and adapt, but no warranty and liability to any kinds of simulation results. <br>
 Citing our [article](https://link.springer.com/content/pdf/10.1007/s11661-017-4397-y.pdf) is strongly encouraged if you use or get inspired by our code. <br>
-See the [LICENSE](https://github.com/haixingfang/3D-GEB-mixed-mode-model/blob/master/LICENSE) for license rights and limitations (GNU General Public License v3.0).
+See the [LICENSE](https://github.com/haixingfang/3D-mixed-mode-model/blob/master/LICENSE) for license rights and limitations (GNU General Public License v3.0).
 
 ## Contact via hfang@tudelft.nl or haixingfang868@gmail.com
