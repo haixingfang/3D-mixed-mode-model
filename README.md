@@ -2,7 +2,7 @@
 The codes were developed for implementing a 3D mixed-mode model to predict the average ferrite grain size and grain size distribution for an austenite-to-ferrite phase transformation during continuous cooling of an Fe-C-Mn steel. Using a Voronoi construction to represent the austenite grains, the ferrite is assumed to nucleate at the grain corners and to grow as spheres. Classical nucleation theory is used to estimate the density of ferrite nuclei. By assuming a negligible partition of manganese, the moving ferrite–austenite interface is treated with a mixed-mode model in which the soft impingement of the carbon diffusion fields is considered. The ferrite volume fraction, the average ferrite grain size, and the ferrite grain size distribution are derived as a function of temperature. The model provides a versatile tool to analyze the evolution of the ferrite grain size distribution at low computational costs.
 
 # Features of the model
-- Continuous nucleation
+- Continuous nucleation at the corners of austenitic grains
 - Interface moving in a mixed-mode manner by assuming a negligible partition of manganese in para-equilibrium
 - Using effective interface mobility to account for the influence of substitutional alloying elements
 - Soft impingement and hard impingement are considered
