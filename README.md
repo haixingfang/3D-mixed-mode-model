@@ -20,7 +20,7 @@ But it can be easily adapted to other alloys under different heat treatment cond
 
 # License
 This package is free to use, ditribute and adapt, but no warranty and liability to any kinds of simulation results. <br>
-Citing our [article](https://link.springer.com/content/pdf/10.1007/s11661-017-4397-y.pdf) is strongly encouraged if you use or get inspired by our code. <br>
+Citing our [article published in MMTA](https://link.springer.com/content/pdf/10.1007/s11661-017-4397-y.pdf) is strongly encouraged if you use or get inspired by our code. <br>
 See the [LICENSE](https://github.com/haixingfang/3D-mixed-mode-model/blob/master/LICENSE) for license rights and limitations (GNU General Public License v3.0).
 
 ## Contact via hfang@tudelft.nl or haixingfang868@gmail.com
