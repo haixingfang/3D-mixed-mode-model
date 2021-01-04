@@ -170,8 +170,9 @@ site=[];
 % Remove points beyond the Lb*Lb*Lb cubic box
 for i=1:length(potential)
   if all(potential(i,:)-Lb/2-1)&&all(potential(i,:)+Lb/2+1)
-     eval(['site',num2str(i),'=','potential(i,:)']); % Convert the number to string
-     eval(['site=[site;site',num2str(i),'];']);  % Combine site1, site 2,...
+%     eval(['site',num2str(i),'=','potential(i,:)']); % Convert the number to string
+%     eval(['site=[site;site',num2str(i),'];']);  % Combine site1, site 2,...
+	 site=[site;potential(i,:)];
   end
 end
 p1=randperm(length(site));
